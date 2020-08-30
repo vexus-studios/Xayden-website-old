@@ -1,2 +1,2 @@
 # Xayden-website-old
- The old Xayden | Minecraft Buildteam website.
+ The old xayden buildteam website, created with plain php and a lot of css.
